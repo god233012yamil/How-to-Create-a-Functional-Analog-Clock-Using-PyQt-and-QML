@@ -7,3 +7,7 @@ interfaces in QML, and have the option of connecting these user interfaces to an
 
 This tutorial shows how to create a functional analog clock using PyQt5 and QML.
 
+# The following is a video demonstrating the output of this code.
+https://github.com/god233012yamil/How-to-Create-a-Functional-Analog-Clock-Using-PyQt-and-QML/assets/5813359/96898d48-1875-426e-8a1a-be7ab7806a91
+
+
